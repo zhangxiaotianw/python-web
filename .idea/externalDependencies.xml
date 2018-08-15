@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="Docker" />
+    <plugin id="Git4Idea" />
+    <plugin id="HtmlTools" />
+    <plugin id="com.intellij" />
+    <plugin id="com.intellij.CloudConfig" />
+    <plugin id="com.intellij.css" />
+    <plugin id="com.intellij.database" />
+    <plugin id="com.intellij.plugins.watcher" />
+    <plugin id="com.jetbrains.plugins.ini4idea" />
+    <plugin id="com.jetbrains.restClient" />
+    <plugin id="org.coffeescript" />
+    <plugin id="org.editorconfig.editorconfigjetbrains" />
+    <plugin id="org.jetbrains.plugins.django-db-config" />
+    <plugin id="org.jetbrains.plugins.github" />
+    <plugin id="org.jetbrains.plugins.terminal" />
+  </component>
+</project>
